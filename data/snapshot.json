@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T18:37:35.696582-04:00",
+ "generated_at": "2026-10-29T18:47:28.870901-04:00",
  "nfl_state": {
   "week": 8,
   "leg": 8,
@@ -1329,7 +1329,7 @@
     "game_status": "pre_game",
     "bye": 6,
     "depth": "QB1",
-    "trend_rank": 35,
+    "trend_rank": 36,
     "waiver_note": null
    },
    {
@@ -2045,7 +2045,7 @@
     "team": "SEA",
     "injury": "Questionable",
     "injury_detail": "Knee",
-    "proj": 4.51,
+    "proj": 4.52,
     "season_pts": 26.2,
     "gp": 7,
     "ppg": 3.7,
@@ -2307,7 +2307,7 @@
     "game_status": "pre_game",
     "bye": 6,
     "depth": "TE1",
-    "trend_rank": 55,
+    "trend_rank": 54,
     "waiver_note": null
    },
    {
@@ -2361,7 +2361,7 @@
     "game_status": "pre_game",
     "bye": 6,
     "depth": "TE1",
-    "trend_rank": 54,
+    "trend_rank": 53,
     "waiver_note": null
    },
    {
@@ -3250,7 +3250,7 @@
    "game_status": "pre_game",
    "bye": 6,
    "depth": "QB1",
-   "trend_rank": 35
+   "trend_rank": 36
   },
   {
    "id": "11647",

@@ -1,5 +1,5 @@
 # FAAntasy GM briefing — Week 8, 2026
-_Generated 2026-10-29T18:37:35.696582-04:00 (America/New_York) from Sleeper's public API. Read-only._
+_Generated 2026-10-29T18:47:28.870901-04:00 (America/New_York) from Sleeper's public API. Read-only._
 _Refreshed automatically every hour. If this timestamp is more than 3 hours old, treat the data as STALE and say so; check data/status.json for the error._
 
 All points below are computed in THIS league's scoring (standard, 0 PPR, 6-pt pass TD). Proj = Sleeper/RotoWire projection converted to league scoring (unofficial endpoint). PPG = season points per game played. Snap% = season offensive snap share.
@@ -108,7 +108,7 @@ Waiver status caveat: Sleeper's API does not expose per-player waiver locks. Pla
 | Michael Penix Jr. | QB | ATL | @ TB 2026-11-01 | 16.4 | 20.5 | 16.4 / 29.1 / 26.4 | 99 | - | 2.4 | - | 11 | recently dropped (1.6d ago) - likely on waivers
 | Deshaun Watson | QB | CLE | @ PIT 2026-11-01 | 15.6 | 17.3 | 14.2 / 9.5 / 18.2 | 100 | - | 6.9 | - | 11 |
 | Sam Darnold | QB | SEA | vs CHI 2026-11-02 | 17.5 | 15.1 | 10.3 / 11.0 / 16.0 | 89 | - | 1.5 | - | 11 |
-| Malik Willis | QB | MIA | vs NE 2026-11-01 | 14.3 | 15.8 | 20.9 / - / 30.0 | 100 | - | 5.8 | - | 6 | trending add #35
+| Malik Willis | QB | MIA | vs NE 2026-11-01 | 14.3 | 15.8 | 20.9 / - / 30.0 | 100 | - | 5.8 | - | 6 | trending add #36
 | Tanner McKee | QB | PHI | @ WAS 2026-11-01 | 15.7 | 13.6 | - / 14.6 / 12.5 | 51 | - | 1.0 | - | 10 |
 | Cam Ward | QB | TEN | @ CIN 2026-11-01 | 15.1 | 11.8 | 5.0 / 8.8 / 5.7 | 100 | - | 2.7 | - | 9 |
 | Daniel Jones | QB | IND | @ JAX 2026-11-01 | 12.5 | 10.4 | 11.1 / 15.8 / 3.6 | 101 | - | 3.0 | - | 13 |
@@ -153,9 +153,9 @@ Waiver status caveat: Sleeper's API does not expose per-player waiver locks. Pla
 ### TE
 | Player | Pos | Tm | Wk8 opp | Proj | PPG | Last 3 (wk 5,6,7) | Snap% | Tgt/g | Rush/g | Injury | Bye |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Mike Gesicki | TE | CIN | vs TEN 2026-11-01 | 5.4 | 7.8 | 6.4 / - / 6.6 | 45 | 3.0 | - | - | 6 | trending add #55
+| Mike Gesicki | TE | CIN | vs TEN 2026-11-01 | 5.4 | 7.8 | 6.4 / - / 6.6 | 45 | 3.0 | - | - | 6 | trending add #54
 | Brenton Strange | TE | JAX | vs IND 2026-11-01 | 6.8 | 5.6 | 6.8 / 4.4 / - | 79 | 5.5 | - | - | 7 | trending add #8
-| T.J. Hockenson | TE | MIN | @ DET 2026-11-01 | 6.3 | 6.0 | 0.7 / - / 9.5 | 63 | 5.3 | - | - | 6 | trending add #54
+| T.J. Hockenson | TE | MIN | @ DET 2026-11-01 | 6.3 | 6.0 | 0.7 / - / 9.5 | 63 | 5.3 | - | - | 6 | trending add #53
 | Darren Waller | TE | CAR | @ GB 2026-10-29 | 4.8 | 6.3 | - / 0 / 11.0 | 46 | 3.8 | - | - | 5 |
 | Jake Ferguson | TE | DAL | vs ARI 2026-11-01 | 6.3 | 3.9 | 1.9 / 1.3 / 0 | 66 | 3.6 | - | - | 14 | trending add #56
 | Mason Taylor | TE | NYJ | vs LV 2026-11-01 | 4.4 | 5.1 | 2.4 / 3.3 / 20.2 | 57 | 3.6 | - | - | 13 | trending add #19
