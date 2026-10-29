@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T18:47:28.870901-04:00",
+ "generated_at": "2026-10-29T18:48:36.033713-04:00",
  "nfl_state": {
   "week": 8,
   "leg": 8,
@@ -2045,7 +2045,7 @@
     "team": "SEA",
     "injury": "Questionable",
     "injury_detail": "Knee",
-    "proj": 4.52,
+    "proj": 4.51,
     "season_pts": 26.2,
     "gp": 7,
     "ppg": 3.7,
