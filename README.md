@@ -39,16 +39,11 @@ The pipeline has no Sleeper login and no write access. The public API is read-on
 |---|---|
 | Live Sleeper pull, tested with real league data | ✅ Done (`python3 sleeper_gm.py`) |
 | Refresh failure handling (status file + warning banner at the top of the report) | ✅ Tested (simulated network failure, then recovery) |
-| GitHub Actions hourly refresh | ⏳ Workflow written (`.github/workflows/refresh.yml`); repo not yet created |
+| GitHub Actions hourly refresh | ✅ Live at https://github.com/HinesCasey13/faantasy-gm; first hosted run passed on 2026-10-29 |
 | ChatGPT task prompts | ⏳ Written (`chatgpt_task_prompts.md`); you paste them into your existing tasks |
 
-### Step 1: publish the repo (one time)
-1. Re-authenticate the GitHub CLI. The token stored on this Mac is invalid:
-   ```bash
-   gh auth login -h github.com -w
-   ```
-2. Ask Claude to create the repo, or run `./publish_to_github.sh` yourself. It creates the **public** repo `HinesCasey13/faantasy-gm`, pushes, and starts the first refresh.
-   - It has to be public so ChatGPT can read it without logging in. Everything in it is already public: anyone with your league ID can pull the same data from Sleeper. No passwords, emails or tokens are included.
+### Step 1: publish the repo (one time) ✅ done
+Created `HinesCasey13/faantasy-gm` (public, so ChatGPT can read it without logging in). Everything in it is already public: anyone with your league ID can pull the same data from Sleeper. No passwords, emails or tokens are included. `publish_to_github.sh` is kept only in case you need to recreate the repo.
 
 ### Step 2: confirm the hourly refresh
 On GitHub, go to repo → **Actions** → *Refresh Sleeper data*. Runs show at :07 past each hour; GitHub's scheduler can be 5–30 minutes late. Open the URL above and check the `Generated` timestamp.
