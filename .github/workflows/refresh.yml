@@ -1,0 +1,48 @@
+name: Refresh Sleeper data
+
+# Hourly read-only pull from Sleeper's public API. Publishes reports/latest.md and
+# data/snapshot.json to this repo so the scheduled reviews can read one stable URL.
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Sleeper asks callers to pull the 15 MB player DB at most daily; the script
+      # re-downloads only when the cached copy is older than 20 hours.
+      - uses: actions/cache@v4
+        with:
+          path: data/players_cache.json
+          key: players-${{ github.run_id }}
+          restore-keys: players-
+
+      - name: Refresh
+        run: python3 sleeper_gm.py
+
+      # Runs even when the refresh fails, so status.json and the failure banner get published.
+      # A failed refresh still fails the job, which makes GitHub email the repo owner.
+      - name: Publish
+        if: always()
+        run: |
+          git config user.name "sleeper-gm-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/latest.md data/snapshot.json data/status.json
+          git diff --cached --quiet || git commit -q -m "Refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

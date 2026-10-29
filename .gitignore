@@ -1,0 +1,6 @@
+data/raw/
+data/players_cache.json
+*.tmp
+__pycache__/
+.claude/
+.DS_Store
