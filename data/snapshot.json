@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T18:56:33.506944-05:00",
+ "generated_at": "2026-11-04T01:02:10.656299-05:00",
  "nfl_state": {
   "week": 9,
   "leg": 9,
@@ -453,7 +453,7 @@
    "team": "CAR",
    "injury": null,
    "injury_detail": null,
-   "proj": 8.89,
+   "proj": 8.9,
    "season_pts": 66.9,
    "gp": 7,
    "ppg": 9.6,
@@ -480,7 +480,7 @@
    "team": "NYG",
    "injury": null,
    "injury_detail": null,
-   "proj": 7.54,
+   "proj": 7.6,
    "season_pts": 71.5,
    "gp": 7,
    "ppg": 10.2,
@@ -551,7 +551,7 @@
    "game_status": "pre_game",
    "bye": 13,
    "depth": "K1",
-   "trend_rank": 51
+   "trend_rank": 50
   },
   {
    "slot": "DEF",
@@ -589,7 +589,7 @@
    "team": "TB",
    "injury": null,
    "injury_detail": null,
-   "proj": 16.96,
+   "proj": 17.35,
    "season_pts": 49.16,
    "gp": 5,
    "ppg": 9.8,
@@ -615,7 +615,7 @@
    "team": "PHI",
    "injury": null,
    "injury_detail": null,
-   "proj": 6.07,
+   "proj": 6.13,
    "season_pts": 38.0,
    "gp": 6,
    "ppg": 6.3,
@@ -781,13 +781,13 @@
    "slot": "WR",
    "id": "12526",
    "name": "Tetairoa McMillan",
-   "proj": 8.89
+   "proj": 8.9
   },
   {
    "slot": "TE",
    "id": "8131",
    "name": "Isaiah Likely",
-   "proj": 7.54
+   "proj": 7.6
   },
   {
    "slot": "FLEX",
@@ -808,8 +808,8 @@
    "proj": 8.46
   }
  ],
- "proj_current": 100.1,
- "proj_optimal": 108.98,
+ "proj_current": 100.17,
+ "proj_optimal": 109.05,
  "schedule_results": [
   {
    "week": 1,
@@ -933,7 +933,7 @@
    "team": "BUF",
    "injury": null,
    "injury_detail": null,
-   "proj": 23.92,
+   "proj": 23.84,
    "season_pts": 208.82,
    "gp": 7,
    "ppg": 29.8,
@@ -960,7 +960,7 @@
    "team": "BAL",
    "injury": null,
    "injury_detail": null,
-   "proj": 10.45,
+   "proj": 10.47,
    "season_pts": 124.7,
    "gp": 8,
    "ppg": 15.6,
@@ -987,7 +987,7 @@
    "team": "SEA",
    "injury": null,
    "injury_detail": null,
-   "proj": 8.96,
+   "proj": 8.97,
    "season_pts": 2.9,
    "gp": 1,
    "ppg": 2.9,
@@ -1014,7 +1014,7 @@
    "team": "KC",
    "injury": null,
    "injury_detail": null,
-   "proj": 6.62,
+   "proj": 6.76,
    "season_pts": 29.0,
    "gp": 7,
    "ppg": 4.1,
@@ -1095,7 +1095,7 @@
    "team": "ARI",
    "injury": null,
    "injury_detail": null,
-   "proj": 8.11,
+   "proj": 7.97,
    "season_pts": 84.4,
    "gp": 8,
    "ppg": 10.6,
@@ -1122,7 +1122,7 @@
    "team": "NYJ",
    "injury": null,
    "injury_detail": null,
-   "proj": 8.3,
+   "proj": 8.31,
    "season_pts": 82.6,
    "gp": 8,
    "ppg": 10.3,
@@ -1222,7 +1222,7 @@
     "game_status": "pre_game",
     "bye": 8,
     "depth": "QB1",
-    "trend_rank": 29,
+    "trend_rank": 34,
     "waiver_note": null
    },
    {
@@ -1232,7 +1232,7 @@
     "team": "ARI",
     "injury": null,
     "injury_detail": null,
-    "proj": 12.04,
+    "proj": 11.78,
     "season_pts": 25.52,
     "gp": 1,
     "ppg": 25.5,
@@ -1259,7 +1259,7 @@
     "team": "SEA",
     "injury": null,
     "injury_detail": null,
-    "proj": 21.32,
+    "proj": 21.25,
     "season_pts": 112.32,
     "gp": 7,
     "ppg": 16.0,
@@ -1276,7 +1276,7 @@
     "game_status": "pre_game",
     "bye": 11,
     "depth": "QB1",
-    "trend_rank": 27,
+    "trend_rank": 31,
     "waiver_note": null
    },
    {
@@ -1286,7 +1286,7 @@
     "team": "MIA",
     "injury": null,
     "injury_detail": null,
-    "proj": 19.65,
+    "proj": 19.72,
     "season_pts": 113.22,
     "gp": 7,
     "ppg": 16.2,
@@ -1340,7 +1340,7 @@
     "team": "NYG",
     "injury": null,
     "injury_detail": null,
-    "proj": 17.58,
+    "proj": 17.83,
     "season_pts": 28.7,
     "gp": 3,
     "ppg": 9.6,
@@ -1421,7 +1421,7 @@
     "team": "PHI",
     "injury": null,
     "injury_detail": null,
-    "proj": 13.72,
+    "proj": 13.73,
     "season_pts": 34.12,
     "gp": 3,
     "ppg": 11.4,
@@ -1477,7 +1477,7 @@
     "team": "ARI",
     "injury": null,
     "injury_detail": null,
-    "proj": 8.21,
+    "proj": 8.15,
     "season_pts": 63.1,
     "gp": 8,
     "ppg": 7.9,
@@ -1504,7 +1504,7 @@
     "team": "NYG",
     "injury": null,
     "injury_detail": null,
-    "proj": 7.18,
+    "proj": 7.3,
     "season_pts": 25.5,
     "gp": 4,
     "ppg": 6.4,
@@ -1521,7 +1521,7 @@
     "game_status": "pre_game",
     "bye": 8,
     "depth": "RB2",
-    "trend_rank": 5,
+    "trend_rank": 4,
     "waiver_note": null
    },
    {
@@ -1548,7 +1548,7 @@
     "game_status": "pre_game",
     "bye": 8,
     "depth": "RB2",
-    "trend_rank": null,
+    "trend_rank": 53,
     "waiver_note": null
    },
    {
@@ -1585,7 +1585,7 @@
     "team": "PHI",
     "injury": null,
     "injury_detail": null,
-    "proj": 5.77,
+    "proj": 5.76,
     "season_pts": 7.1,
     "gp": 2,
     "ppg": 3.5,
@@ -1602,7 +1602,7 @@
     "game_status": "pre_game",
     "bye": 10,
     "depth": null,
-    "trend_rank": 35,
+    "trend_rank": 25,
     "waiver_note": null
    },
    {
@@ -1629,7 +1629,7 @@
     "game_status": "pre_game",
     "bye": 7,
     "depth": "RB2",
-    "trend_rank": 56,
+    "trend_rank": 55,
     "waiver_note": null
    },
    {
@@ -1656,7 +1656,7 @@
     "game_status": "pre_game",
     "bye": 11,
     "depth": "RB2",
-    "trend_rank": 58,
+    "trend_rank": null,
     "waiver_note": null
    },
    {
@@ -1764,7 +1764,7 @@
     "game_status": "pre_game",
     "bye": 6,
     "depth": "RB2",
-    "trend_rank": 22,
+    "trend_rank": 19,
     "waiver_note": null
    },
    {
@@ -1878,6 +1878,33 @@
   ],
   "WR": [
    {
+    "id": "11625",
+    "name": "Adonai Mitchell",
+    "pos": "WR",
+    "team": "NYJ",
+    "injury": null,
+    "injury_detail": null,
+    "proj": 4.46,
+    "season_pts": 32.5,
+    "gp": 4,
+    "ppg": 8.1,
+    "recent": [
+     null,
+     0,
+     20.2
+    ],
+    "snap_pct": 65,
+    "tgt_pg": 6.8,
+    "rush_pg": null,
+    "opp": "@ KC",
+    "game_date": "2026-11-08",
+    "game_status": "pre_game",
+    "bye": 13,
+    "depth": "RWR3",
+    "trend_rank": 1,
+    "waiver_note": null
+   },
+   {
     "id": "11834",
     "name": "Devaughn Vele",
     "pos": "WR",
@@ -1901,34 +1928,7 @@
     "game_status": "pre_game",
     "bye": 8,
     "depth": "SWR2",
-    "trend_rank": null,
-    "waiver_note": null
-   },
-   {
-    "id": "11625",
-    "name": "Adonai Mitchell",
-    "pos": "WR",
-    "team": "NYJ",
-    "injury": null,
-    "injury_detail": null,
-    "proj": 4.4,
-    "season_pts": 32.5,
-    "gp": 4,
-    "ppg": 8.1,
-    "recent": [
-     null,
-     0,
-     20.2
-    ],
-    "snap_pct": 65,
-    "tgt_pg": 6.8,
-    "rush_pg": null,
-    "opp": "@ KC",
-    "game_date": "2026-11-08",
-    "game_status": "pre_game",
-    "bye": 13,
-    "depth": "RWR3",
-    "trend_rank": 1,
+    "trend_rank": 60,
     "waiver_note": null
    },
    {
@@ -1965,7 +1965,7 @@
     "team": "CHI",
     "injury": null,
     "injury_detail": null,
-    "proj": 4.69,
+    "proj": 4.7,
     "season_pts": 35.5,
     "gp": 8,
     "ppg": 4.4,
@@ -1992,7 +1992,7 @@
     "team": "SEA",
     "injury": null,
     "injury_detail": null,
-    "proj": 4.89,
+    "proj": 4.87,
     "season_pts": 32.6,
     "gp": 8,
     "ppg": 4.1,
@@ -2009,7 +2009,7 @@
     "game_status": "pre_game",
     "bye": 11,
     "depth": "SWR3",
-    "trend_rank": 49,
+    "trend_rank": null,
     "waiver_note": null
    },
    {
@@ -2063,7 +2063,7 @@
     "game_status": "pre_game",
     "bye": 8,
     "depth": "RWR2",
-    "trend_rank": 60,
+    "trend_rank": 56,
     "waiver_note": null
    },
    {
@@ -2208,7 +2208,7 @@
     "team": "PHI",
     "injury": null,
     "injury_detail": null,
-    "proj": 1.66,
+    "proj": 1.72,
     "season_pts": 41.5,
     "gp": 8,
     "ppg": 5.2,
@@ -2221,6 +2221,33 @@
     "tgt_pg": 3.0,
     "rush_pg": null,
     "opp": "vs NYG",
+    "game_date": "2026-11-08",
+    "game_status": "pre_game",
+    "bye": 10,
+    "depth": "RWR3",
+    "trend_rank": null,
+    "waiver_note": null
+   },
+   {
+    "id": "13317",
+    "name": "Ted Hurst III",
+    "pos": "WR",
+    "team": "TB",
+    "injury": null,
+    "injury_detail": null,
+    "proj": 3.33,
+    "season_pts": 22.8,
+    "gp": 8,
+    "ppg": 2.9,
+    "recent": [
+     4.0,
+     0,
+     0
+    ],
+    "snap_pct": 57,
+    "tgt_pg": 3.0,
+    "rush_pg": null,
+    "opp": "@ CHI",
     "game_date": "2026-11-08",
     "game_status": "pre_game",
     "bye": 10,
@@ -2252,33 +2279,6 @@
     "game_status": "pre_game",
     "bye": 8,
     "depth": "SWR5",
-    "trend_rank": null,
-    "waiver_note": null
-   },
-   {
-    "id": "13317",
-    "name": "Ted Hurst III",
-    "pos": "WR",
-    "team": "TB",
-    "injury": null,
-    "injury_detail": null,
-    "proj": 3.24,
-    "season_pts": 22.8,
-    "gp": 8,
-    "ppg": 2.9,
-    "recent": [
-     4.0,
-     0,
-     0
-    ],
-    "snap_pct": 57,
-    "tgt_pg": 3.0,
-    "rush_pg": null,
-    "opp": "@ CHI",
-    "game_date": "2026-11-08",
-    "game_status": "pre_game",
-    "bye": 10,
-    "depth": "RWR3",
     "trend_rank": null,
     "waiver_note": null
    }
@@ -2318,7 +2318,7 @@
     "team": "MIN",
     "injury": null,
     "injury_detail": null,
-    "proj": 6.2,
+    "proj": 6.19,
     "season_pts": 47.5,
     "gp": 7,
     "ppg": 6.8,
@@ -2372,7 +2372,7 @@
     "team": "CAR",
     "injury": null,
     "injury_detail": null,
-    "proj": 4.53,
+    "proj": 4.54,
     "season_pts": 38.9,
     "gp": 7,
     "ppg": 5.6,
@@ -2426,7 +2426,7 @@
     "team": "NYJ",
     "injury": null,
     "injury_detail": null,
-    "proj": 4.04,
+    "proj": 4.15,
     "season_pts": 27.6,
     "gp": 6,
     "ppg": 4.6,
@@ -2480,7 +2480,7 @@
     "team": "SEA",
     "injury": null,
     "injury_detail": null,
-    "proj": 5.1,
+    "proj": 5.09,
     "season_pts": 26.8,
     "gp": 8,
     "ppg": 3.4,
@@ -2534,7 +2534,7 @@
     "team": "LAR",
     "injury": null,
     "injury_detail": null,
-    "proj": 4.23,
+    "proj": 4.24,
     "season_pts": 29.4,
     "gp": 8,
     "ppg": 3.7,
@@ -2563,7 +2563,7 @@
     "team": "BUF",
     "injury": null,
     "injury_detail": null,
-    "proj": 6.81,
+    "proj": 6.79,
     "season_pts": 76.0,
     "gp": 7,
     "ppg": 10.9,
@@ -2617,7 +2617,7 @@
     "team": "CHI",
     "injury": null,
     "injury_detail": null,
-    "proj": 6.41,
+    "proj": 6.46,
     "season_pts": 70.0,
     "gp": 8,
     "ppg": 8.8,
@@ -2644,7 +2644,7 @@
     "team": "ARI",
     "injury": null,
     "injury_detail": null,
-    "proj": 5.06,
+    "proj": 5.04,
     "season_pts": 79.0,
     "gp": 8,
     "ppg": 9.9,
@@ -2671,7 +2671,7 @@
     "team": "NYG",
     "injury": null,
     "injury_detail": null,
-    "proj": 6.41,
+    "proj": 6.46,
     "season_pts": 57.0,
     "gp": 7,
     "ppg": 8.1,
@@ -2687,6 +2687,33 @@
     "game_date": "2026-11-08",
     "game_status": "pre_game",
     "bye": 8,
+    "depth": "K1",
+    "trend_rank": null,
+    "waiver_note": null
+   },
+   {
+    "id": "5119",
+    "name": "Jason Sanders",
+    "pos": "K",
+    "team": "NYJ",
+    "injury": null,
+    "injury_detail": null,
+    "proj": 5.71,
+    "season_pts": 70.0,
+    "gp": 8,
+    "ppg": 8.8,
+    "recent": [
+     15.0,
+     4.0,
+     15.0
+    ],
+    "snap_pct": null,
+    "tgt_pg": null,
+    "rush_pg": null,
+    "opp": "@ KC",
+    "game_date": "2026-11-08",
+    "game_status": "pre_game",
+    "bye": 13,
     "depth": "K1",
     "trend_rank": null,
     "waiver_note": null
@@ -2714,33 +2741,6 @@
     "game_date": "2026-11-08",
     "game_status": "pre_game",
     "bye": 11,
-    "depth": "K1",
-    "trend_rank": null,
-    "waiver_note": null
-   },
-   {
-    "id": "5119",
-    "name": "Jason Sanders",
-    "pos": "K",
-    "team": "NYJ",
-    "injury": null,
-    "injury_detail": null,
-    "proj": 5.63,
-    "season_pts": 70.0,
-    "gp": 8,
-    "ppg": 8.8,
-    "recent": [
-     15.0,
-     4.0,
-     15.0
-    ],
-    "snap_pct": null,
-    "tgt_pg": null,
-    "rush_pg": null,
-    "opp": "@ KC",
-    "game_date": "2026-11-08",
-    "game_status": "pre_game",
-    "bye": 13,
     "depth": "K1",
     "trend_rank": null,
     "waiver_note": null
@@ -2781,7 +2781,7 @@
     "team": "KC",
     "injury": null,
     "injury_detail": null,
-    "proj": 9.18,
+    "proj": 9.26,
     "season_pts": 47.0,
     "gp": 7,
     "ppg": 6.7,
@@ -2825,7 +2825,7 @@
     "game_status": "pre_game",
     "bye": 8,
     "depth": null,
-    "trend_rank": 21,
+    "trend_rank": 23,
     "waiver_note": null
    },
    {
@@ -2862,7 +2862,7 @@
     "team": "NYG",
     "injury": null,
     "injury_detail": null,
-    "proj": 7.84,
+    "proj": 7.87,
     "season_pts": 40.0,
     "gp": 7,
     "ppg": 5.7,
@@ -2879,7 +2879,7 @@
     "game_status": "pre_game",
     "bye": 8,
     "depth": null,
-    "trend_rank": 23,
+    "trend_rank": 21,
     "waiver_note": null
    },
    {
@@ -2916,7 +2916,7 @@
     "team": "BUF",
     "injury": null,
     "injury_detail": null,
-    "proj": 6.62,
+    "proj": 6.58,
     "season_pts": 40.0,
     "gp": 7,
     "ppg": 5.7,
@@ -3000,7 +3000,7 @@
    "team": "NYJ",
    "injury": null,
    "injury_detail": null,
-   "proj": 4.4,
+   "proj": 4.46,
    "season_pts": 32.5,
    "gp": 4,
    "ppg": 8.1,
@@ -3026,7 +3026,7 @@
    "team": "ARI",
    "injury": null,
    "injury_detail": null,
-   "proj": 8.21,
+   "proj": 8.15,
    "season_pts": 63.1,
    "gp": 8,
    "ppg": 7.9,
@@ -3052,7 +3052,7 @@
    "team": "ARI",
    "injury": null,
    "injury_detail": null,
-   "proj": 12.04,
+   "proj": 11.78,
    "season_pts": 25.52,
    "gp": 1,
    "ppg": 25.5,
@@ -3078,7 +3078,7 @@
    "team": "NYG",
    "injury": null,
    "injury_detail": null,
-   "proj": 7.18,
+   "proj": 7.3,
    "season_pts": 25.5,
    "gp": 4,
    "ppg": 6.4,
@@ -3095,7 +3095,7 @@
    "game_status": "pre_game",
    "bye": 8,
    "depth": "RB2",
-   "trend_rank": 5
+   "trend_rank": 4
   },
   {
    "id": "7042",
@@ -3104,7 +3104,7 @@
    "team": "BUF",
    "injury": null,
    "injury_detail": null,
-   "proj": 6.81,
+   "proj": 6.79,
    "season_pts": 76.0,
    "gp": 7,
    "ppg": 10.9,
@@ -3156,7 +3156,7 @@
    "team": "MIA",
    "injury": null,
    "injury_detail": null,
-   "proj": 19.65,
+   "proj": 19.72,
    "season_pts": 113.22,
    "gp": 7,
    "ppg": 16.2,
@@ -3208,7 +3208,7 @@
    "team": "CHI",
    "injury": null,
    "injury_detail": null,
-   "proj": 6.41,
+   "proj": 6.46,
    "season_pts": 70.0,
    "gp": 8,
    "ppg": 8.8,
@@ -3226,32 +3226,6 @@
    "bye": 10,
    "depth": "K1",
    "trend_rank": 15
-  },
-  {
-   "id": "SF",
-   "name": "SF D/ST",
-   "pos": "DEF",
-   "team": "SF",
-   "injury": null,
-   "injury_detail": null,
-   "proj": 7.77,
-   "season_pts": 50.0,
-   "gp": 7,
-   "ppg": 7.1,
-   "recent": [
-    5.0,
-    0.0,
-    null
-   ],
-   "snap_pct": null,
-   "tgt_pg": null,
-   "rush_pg": null,
-   "opp": "vs LV",
-   "game_date": "2026-11-08",
-   "game_status": "pre_game",
-   "bye": 8,
-   "depth": null,
-   "trend_rank": 21
   },
   {
    "id": "11729",
@@ -3277,7 +3251,7 @@
    "game_status": "pre_game",
    "bye": 6,
    "depth": "RB2",
-   "trend_rank": 22
+   "trend_rank": 19
   },
   {
    "id": "NYG",
@@ -3286,7 +3260,7 @@
    "team": "NYG",
    "injury": null,
    "injury_detail": null,
-   "proj": 7.84,
+   "proj": 7.87,
    "season_pts": 40.0,
    "gp": 7,
    "ppg": 5.7,
@@ -3303,7 +3277,59 @@
    "game_status": "pre_game",
    "bye": 8,
    "depth": null,
+   "trend_rank": 21
+  },
+  {
+   "id": "SF",
+   "name": "SF D/ST",
+   "pos": "DEF",
+   "team": "SF",
+   "injury": null,
+   "injury_detail": null,
+   "proj": 7.77,
+   "season_pts": 50.0,
+   "gp": 7,
+   "ppg": 7.1,
+   "recent": [
+    5.0,
+    0.0,
+    null
+   ],
+   "snap_pct": null,
+   "tgt_pg": null,
+   "rush_pg": null,
+   "opp": "vs LV",
+   "game_date": "2026-11-08",
+   "game_status": "pre_game",
+   "bye": 8,
+   "depth": null,
    "trend_rank": 23
+  },
+  {
+   "id": "7561",
+   "name": "Elijah Mitchell",
+   "pos": "RB",
+   "team": "PHI",
+   "injury": null,
+   "injury_detail": null,
+   "proj": 5.76,
+   "season_pts": 7.1,
+   "gp": 2,
+   "ppg": 3.5,
+   "recent": [
+    null,
+    3.4,
+    3.7
+   ],
+   "snap_pct": 39,
+   "tgt_pg": 5.0,
+   "rush_pg": 7.0,
+   "opp": "vs NYG",
+   "game_date": "2026-11-08",
+   "game_status": "pre_game",
+   "bye": 10,
+   "depth": null,
+   "trend_rank": 25
   },
   {
    "id": "12540",
@@ -3338,7 +3364,7 @@
    "team": "SEA",
    "injury": null,
    "injury_detail": null,
-   "proj": 21.32,
+   "proj": 21.25,
    "season_pts": 112.32,
    "gp": 7,
    "ppg": 16.0,
@@ -3355,33 +3381,7 @@
    "game_status": "pre_game",
    "bye": 11,
    "depth": "QB1",
-   "trend_rank": 27
-  },
-  {
-   "id": "12545",
-   "name": "Tyler Shough",
-   "pos": "QB",
-   "team": "NO",
-   "injury": null,
-   "injury_detail": null,
-   "proj": 17.15,
-   "season_pts": 151.94,
-   "gp": 7,
-   "ppg": 21.7,
-   "recent": [
-    32.96,
-    15.82,
-    null
-   ],
-   "snap_pct": 100,
-   "tgt_pg": null,
-   "rush_pg": 3.4,
-   "opp": "vs CLE",
-   "game_date": "2026-11-08",
-   "game_status": "pre_game",
-   "bye": 8,
-   "depth": "QB1",
-   "trend_rank": 29
+   "trend_rank": 31
   }
  ],
  "positional_strength": {
@@ -4826,14 +4826,6 @@
      "bye": 10
     },
     {
-     "name": "Tyrone Tracy Jr.",
-     "pos": "RB",
-     "team": "NYG",
-     "ppg": 3.8,
-     "injury": "IR",
-     "bye": 8
-    },
-    {
      "name": "Nico Collins",
      "pos": "WR",
      "team": "HOU",
@@ -4888,14 +4880,6 @@
      "ppg": 6.8,
      "injury": null,
      "bye": 9
-    },
-    {
-     "name": "Tyler Loop",
-     "pos": "K",
-     "team": "BAL",
-     "ppg": 8.1,
-     "injury": "Questionable",
-     "bye": 13
     },
     {
      "name": "LV D/ST",
@@ -5187,6 +5171,30 @@
   }
  ],
  "transactions": [
+  {
+   "when": "Tue 11/03 19:56",
+   "type": "free_agent",
+   "teams": [
+    "South Georgia Catfish"
+   ],
+   "adds": {},
+   "drops": {
+    "Tyler Loop": "South Georgia Catfish"
+   },
+   "faab": null
+  },
+  {
+   "when": "Tue 11/03 19:41",
+   "type": "free_agent",
+   "teams": [
+    "South Georgia Catfish"
+   ],
+   "adds": {},
+   "drops": {
+    "Tyrone Tracy Jr.": "South Georgia Catfish"
+   },
+   "faab": null
+  },
   {
    "when": "Tue 11/03 10:03",
    "type": "free_agent",
