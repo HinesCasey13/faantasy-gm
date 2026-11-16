@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T20:52:13.129503-05:00",
+ "generated_at": "2026-11-16T04:27:27.476896-05:00",
  "nfl_state": {
   "week": 10,
   "leg": 10,
@@ -335,7 +335,7 @@
    "game_status": "complete",
    "bye": 8,
    "depth": "QB1",
-   "trend_rank": 48
+   "trend_rank": 40
   },
   {
    "slot": "RB",
@@ -521,7 +521,7 @@
    "rush_pg": 0.1,
    "opp": "@ CIN",
    "game_date": "2026-11-15",
-   "game_status": "in_game",
+   "game_status": "complete",
    "bye": 9,
    "depth": "LWR1",
    "trend_rank": null
@@ -578,7 +578,7 @@
    "game_status": "pre_game",
    "bye": 13,
    "depth": null,
-   "trend_rank": 49
+   "trend_rank": 53
   }
  ],
  "my_bench": [
@@ -707,10 +707,10 @@
    "rush_pg": 9.2,
    "opp": "@ CIN",
    "game_date": "2026-11-15",
-   "game_status": "in_game",
+   "game_status": "complete",
    "bye": 9,
    "depth": "RB2",
-   "trend_rank": 38
+   "trend_rank": 41
   }
  ],
  "my_ir": [],
@@ -858,7 +858,7 @@
    "week": 10,
    "opp_rid": 12,
    "opp": "Mahome\u2019s Bijantene",
-   "my_pts": 122.04,
+   "my_pts": 135.44,
    "opp_pts": 98.82,
    "final": false
   },
@@ -1029,7 +1029,7 @@
    "game_status": "complete",
    "bye": 8,
    "depth": "SWR2",
-   "trend_rank": 10
+   "trend_rank": 13
   },
   {
    "slot": "WR",
@@ -1110,7 +1110,7 @@
    "game_status": "complete",
    "bye": 11,
    "depth": "RB1",
-   "trend_rank": 21
+   "trend_rank": 26
   },
   {
    "slot": "K",
@@ -1190,10 +1190,10 @@
     "rush_pg": 1.5,
     "opp": "@ CIN",
     "game_date": "2026-11-15",
-    "game_status": "in_game",
+    "game_status": "complete",
     "bye": 9,
     "depth": "QB1",
-    "trend_rank": 37,
+    "trend_rank": 38,
     "waiver_note": null
    },
    {
@@ -1274,7 +1274,7 @@
     "game_status": "complete",
     "bye": 11,
     "depth": "QB1",
-    "trend_rank": 29,
+    "trend_rank": 27,
     "waiver_note": null
    },
    {
@@ -1436,7 +1436,7 @@
     "game_status": "complete",
     "bye": 13,
     "depth": "QB1",
-    "trend_rank": 9,
+    "trend_rank": 10,
     "waiver_note": null
    }
   ],
@@ -1465,8 +1465,8 @@
     "game_status": "complete",
     "bye": 8,
     "depth": "RB2",
-    "trend_rank": 53,
-    "waiver_note": "recently dropped (1.3d ago) - likely on waivers"
+    "trend_rank": 58,
+    "waiver_note": "recently dropped (1.7d ago) - likely on waivers"
    },
    {
     "id": "4663",
@@ -1570,7 +1570,7 @@
     "rush_pg": 5.8,
     "opp": "vs PIT",
     "game_date": "2026-11-15",
-    "game_status": "in_game",
+    "game_status": "complete",
     "bye": 6,
     "depth": "RB2",
     "trend_rank": null,
@@ -1600,7 +1600,7 @@
     "game_status": "complete",
     "bye": 14,
     "depth": "RB2",
-    "trend_rank": 23,
+    "trend_rank": 25,
     "waiver_note": null
    },
    {
@@ -1926,7 +1926,7 @@
     "game_status": "complete",
     "bye": 11,
     "depth": "RWR3",
-    "trend_rank": 57,
+    "trend_rank": 59,
     "waiver_note": null
    },
    {
@@ -1953,7 +1953,7 @@
     "game_status": "complete",
     "bye": 8,
     "depth": "LWR3",
-    "trend_rank": 40,
+    "trend_rank": 42,
     "waiver_note": null
    },
    {
@@ -1963,7 +1963,7 @@
     "team": "LAC",
     "injury": null,
     "injury_detail": null,
-    "proj": 5.57,
+    "proj": 5.93,
     "season_pts": 32.8,
     "gp": 7,
     "ppg": 4.7,
@@ -1980,7 +1980,7 @@
     "game_status": "pre_game",
     "bye": 7,
     "depth": "LWR2",
-    "trend_rank": 8,
+    "trend_rank": 7,
     "waiver_note": null
    },
    {
@@ -2034,7 +2034,7 @@
     "game_status": "complete",
     "bye": 9,
     "depth": "LWR2",
-    "trend_rank": 17,
+    "trend_rank": 19,
     "waiver_note": null
    },
    {
@@ -2061,7 +2061,7 @@
     "game_status": "complete",
     "bye": 8,
     "depth": "LWR3",
-    "trend_rank": 27,
+    "trend_rank": 16,
     "waiver_note": null
    },
    {
@@ -2276,7 +2276,7 @@
     "rush_pg": 0.5,
     "opp": "@ CIN",
     "game_date": "2026-11-15",
-    "game_status": "in_game",
+    "game_status": "complete",
     "bye": 9,
     "depth": "TE1",
     "trend_rank": null,
@@ -2333,7 +2333,7 @@
     "game_status": "complete",
     "bye": 7,
     "depth": "TE1",
-    "trend_rank": 18,
+    "trend_rank": 20,
     "waiver_note": null
    },
    {
@@ -2357,10 +2357,10 @@
     "rush_pg": null,
     "opp": "@ CIN",
     "game_date": "2026-11-15",
-    "game_status": "in_game",
+    "game_status": "complete",
     "bye": 9,
     "depth": "TE2",
-    "trend_rank": 14,
+    "trend_rank": 18,
     "waiver_note": null
    },
    {
@@ -2575,10 +2575,10 @@
     "rush_pg": null,
     "opp": "@ CIN",
     "game_date": "2026-11-15",
-    "game_status": "in_game",
+    "game_status": "complete",
     "bye": 9,
     "depth": "K1",
-    "trend_rank": 60,
+    "trend_rank": null,
     "waiver_note": null
    },
    {
@@ -2605,7 +2605,7 @@
     "game_status": "complete",
     "bye": 13,
     "depth": "K1",
-    "trend_rank": 41,
+    "trend_rank": 35,
     "waiver_note": null
    },
    {
@@ -2713,7 +2713,7 @@
     "game_status": "complete",
     "bye": 5,
     "depth": "K1",
-    "trend_rank": 31,
+    "trend_rank": 33,
     "waiver_note": null
    },
    {
@@ -2766,7 +2766,7 @@
     "rush_pg": null,
     "opp": "vs PIT",
     "game_date": "2026-11-15",
-    "game_status": "in_game",
+    "game_status": "complete",
     "bye": 6,
     "depth": null,
     "trend_rank": null,
@@ -3017,6 +3017,32 @@
    "trend_rank": 5
   },
   {
+   "id": "9754",
+   "name": "Quentin Johnston",
+   "pos": "WR",
+   "team": "LAC",
+   "injury": null,
+   "injury_detail": null,
+   "proj": 5.93,
+   "season_pts": 32.8,
+   "gp": 7,
+   "ppg": 4.7,
+   "recent": [
+    null,
+    3.7,
+    12.3
+   ],
+   "snap_pct": 81,
+   "tgt_pg": 4.3,
+   "rush_pg": 0.4,
+   "opp": "@ BAL",
+   "game_date": "2026-11-16",
+   "game_status": "pre_game",
+   "bye": 7,
+   "depth": "LWR2",
+   "trend_rank": 7
+  },
+  {
    "id": "7562",
    "name": "Tutu Atwell",
    "pos": "WR",
@@ -3040,32 +3066,6 @@
    "game_status": "complete",
    "bye": 11,
    "depth": "RWR2",
-   "trend_rank": 6
-  },
-  {
-   "id": "9754",
-   "name": "Quentin Johnston",
-   "pos": "WR",
-   "team": "LAC",
-   "injury": null,
-   "injury_detail": null,
-   "proj": 5.57,
-   "season_pts": 32.8,
-   "gp": 7,
-   "ppg": 4.7,
-   "recent": [
-    null,
-    3.7,
-    12.3
-   ],
-   "snap_pct": 81,
-   "tgt_pg": 4.3,
-   "rush_pg": 0.4,
-   "opp": "@ BAL",
-   "game_date": "2026-11-16",
-   "game_status": "pre_game",
-   "bye": 7,
-   "depth": "LWR2",
    "trend_rank": 8
   },
   {
@@ -3092,163 +3092,7 @@
    "game_status": "complete",
    "bye": 13,
    "depth": "QB1",
-   "trend_rank": 9
-  },
-  {
-   "id": "9479",
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "team": "PIT",
-   "injury": null,
-   "injury_detail": null,
-   "proj": 4.8,
-   "season_pts": 43.4,
-   "gp": 8,
-   "ppg": 5.4,
-   "recent": [
-    6.4,
-    9.4,
-    null
-   ],
-   "snap_pct": 65,
-   "tgt_pg": 3.5,
-   "rush_pg": null,
-   "opp": "@ CIN",
-   "game_date": "2026-11-15",
-   "game_status": "in_game",
-   "bye": 9,
-   "depth": "TE2",
-   "trend_rank": 14
-  },
-  {
-   "id": "12700",
-   "name": "Gavin Bartholomew",
-   "pos": "TE",
-   "team": "MIN",
-   "injury": null,
-   "injury_detail": null,
-   "proj": 3.59,
-   "season_pts": 5.4,
-   "gp": 8,
-   "ppg": 0.7,
-   "recent": [
-    1.7,
-    0,
-    0
-   ],
-   "snap_pct": 16,
-   "tgt_pg": 1.0,
-   "rush_pg": null,
-   "opp": "@ GB",
-   "game_date": "2026-11-15",
-   "game_status": "complete",
-   "bye": 6,
-   "depth": "TE1",
-   "trend_rank": 15
-  },
-  {
-   "id": "12499",
-   "name": "Elic Ayomanor",
-   "pos": "WR",
-   "team": "TEN",
-   "injury": null,
-   "injury_detail": null,
-   "proj": 6.13,
-   "season_pts": 27.1,
-   "gp": 8,
-   "ppg": 3.4,
-   "recent": [
-    4.4,
-    3.4,
-    null
-   ],
-   "snap_pct": 65,
-   "tgt_pg": 3.2,
-   "rush_pg": null,
-   "opp": "vs JAX",
-   "game_date": "2026-11-15",
-   "game_status": "complete",
-   "bye": 9,
-   "depth": "LWR2",
-   "trend_rank": 17
-  },
-  {
-   "id": "9480",
-   "name": "Brenton Strange",
-   "pos": "TE",
-   "team": "JAX",
-   "injury": null,
-   "injury_detail": null,
-   "proj": 5.91,
-   "season_pts": 41.6,
-   "gp": 8,
-   "ppg": 5.2,
-   "recent": [
-    null,
-    5.5,
-    2.2
-   ],
-   "snap_pct": 76,
-   "tgt_pg": 4.6,
-   "rush_pg": null,
-   "opp": "@ TEN",
-   "game_date": "2026-11-15",
-   "game_status": "complete",
-   "bye": 7,
-   "depth": "TE1",
-   "trend_rank": 18
-  },
-  {
-   "id": "8122",
-   "name": "Zonovan Knight",
-   "pos": "RB",
-   "team": "ARI",
-   "injury": null,
-   "injury_detail": null,
-   "proj": 6.37,
-   "season_pts": 19.1,
-   "gp": 8,
-   "ppg": 2.4,
-   "recent": [
-    6.3,
-    -0.2,
-    null
-   ],
-   "snap_pct": 18,
-   "tgt_pg": 1.1,
-   "rush_pg": 3.5,
-   "opp": "vs LAR",
-   "game_date": "2026-11-15",
-   "game_status": "complete",
-   "bye": 14,
-   "depth": "RB2",
-   "trend_rank": 23
-  },
-  {
-   "id": "6427",
-   "name": "Ashton Dulin",
-   "pos": "WR",
-   "team": "IND",
-   "injury": null,
-   "injury_detail": null,
-   "proj": 4.25,
-   "season_pts": 15.0,
-   "gp": 5,
-   "ppg": 3.0,
-   "recent": [
-    0.0,
-    0.3,
-    11.8
-   ],
-   "snap_pct": 22,
-   "tgt_pg": 1.8,
-   "rush_pg": 0.4,
-   "opp": "vs MIA",
-   "game_date": "2026-11-15",
-   "game_status": "complete",
-   "bye": 13,
-   "depth": "RWR2",
-   "trend_rank": 25
+   "trend_rank": 10
   },
   {
    "id": "10218",
@@ -3274,7 +3118,137 @@
    "game_status": "complete",
    "bye": 8,
    "depth": "LWR3",
-   "trend_rank": 27
+   "trend_rank": 16
+  },
+  {
+   "id": "12700",
+   "name": "Gavin Bartholomew",
+   "pos": "TE",
+   "team": "MIN",
+   "injury": null,
+   "injury_detail": null,
+   "proj": 3.59,
+   "season_pts": 5.4,
+   "gp": 8,
+   "ppg": 0.7,
+   "recent": [
+    1.7,
+    0,
+    0
+   ],
+   "snap_pct": 16,
+   "tgt_pg": 1.0,
+   "rush_pg": null,
+   "opp": "@ GB",
+   "game_date": "2026-11-15",
+   "game_status": "complete",
+   "bye": 6,
+   "depth": "TE1",
+   "trend_rank": 17
+  },
+  {
+   "id": "9479",
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "team": "PIT",
+   "injury": null,
+   "injury_detail": null,
+   "proj": 4.8,
+   "season_pts": 43.4,
+   "gp": 8,
+   "ppg": 5.4,
+   "recent": [
+    6.4,
+    9.4,
+    null
+   ],
+   "snap_pct": 65,
+   "tgt_pg": 3.5,
+   "rush_pg": null,
+   "opp": "@ CIN",
+   "game_date": "2026-11-15",
+   "game_status": "complete",
+   "bye": 9,
+   "depth": "TE2",
+   "trend_rank": 18
+  },
+  {
+   "id": "12499",
+   "name": "Elic Ayomanor",
+   "pos": "WR",
+   "team": "TEN",
+   "injury": null,
+   "injury_detail": null,
+   "proj": 6.13,
+   "season_pts": 27.1,
+   "gp": 8,
+   "ppg": 3.4,
+   "recent": [
+    4.4,
+    3.4,
+    null
+   ],
+   "snap_pct": 65,
+   "tgt_pg": 3.2,
+   "rush_pg": null,
+   "opp": "vs JAX",
+   "game_date": "2026-11-15",
+   "game_status": "complete",
+   "bye": 9,
+   "depth": "LWR2",
+   "trend_rank": 19
+  },
+  {
+   "id": "9480",
+   "name": "Brenton Strange",
+   "pos": "TE",
+   "team": "JAX",
+   "injury": null,
+   "injury_detail": null,
+   "proj": 5.91,
+   "season_pts": 41.6,
+   "gp": 8,
+   "ppg": 5.2,
+   "recent": [
+    null,
+    5.5,
+    2.2
+   ],
+   "snap_pct": 76,
+   "tgt_pg": 4.6,
+   "rush_pg": null,
+   "opp": "@ TEN",
+   "game_date": "2026-11-15",
+   "game_status": "complete",
+   "bye": 7,
+   "depth": "TE1",
+   "trend_rank": 20
+  },
+  {
+   "id": "8122",
+   "name": "Zonovan Knight",
+   "pos": "RB",
+   "team": "ARI",
+   "injury": null,
+   "injury_detail": null,
+   "proj": 6.37,
+   "season_pts": 19.1,
+   "gp": 8,
+   "ppg": 2.4,
+   "recent": [
+    6.3,
+    -0.2,
+    null
+   ],
+   "snap_pct": 18,
+   "tgt_pg": 1.1,
+   "rush_pg": 3.5,
+   "opp": "vs LAR",
+   "game_date": "2026-11-15",
+   "game_status": "complete",
+   "bye": 14,
+   "depth": "RB2",
+   "trend_rank": 25
   },
   {
    "id": "4017",
@@ -3300,33 +3274,33 @@
    "game_status": "complete",
    "bye": 11,
    "depth": "QB1",
-   "trend_rank": 29
+   "trend_rank": 27
   },
   {
-   "id": "6865",
-   "name": "Colby Parkinson",
-   "pos": "TE",
-   "team": "LAR",
+   "id": "6427",
+   "name": "Ashton Dulin",
+   "pos": "WR",
+   "team": "IND",
    "injury": null,
    "injury_detail": null,
-   "proj": 4.36,
-   "season_pts": 17.6,
-   "gp": 7,
-   "ppg": 2.5,
+   "proj": 4.25,
+   "season_pts": 15.0,
+   "gp": 5,
+   "ppg": 3.0,
    "recent": [
-    4.8,
-    null,
-    1.3
+    0.0,
+    0.3,
+    11.8
    ],
-   "snap_pct": 65,
-   "tgt_pg": 3.3,
-   "rush_pg": null,
-   "opp": "@ ARI",
+   "snap_pct": 22,
+   "tgt_pg": 1.8,
+   "rush_pg": 0.4,
+   "opp": "vs MIA",
    "game_date": "2026-11-15",
    "game_status": "complete",
-   "bye": 11,
-   "depth": "TE2",
-   "trend_rank": 30
+   "bye": 13,
+   "depth": "RWR2",
+   "trend_rank": 31
   },
   {
    "id": "12961",
@@ -3352,7 +3326,33 @@
    "game_status": "complete",
    "bye": 5,
    "depth": "K1",
-   "trend_rank": 31
+   "trend_rank": 33
+  },
+  {
+   "id": "6865",
+   "name": "Colby Parkinson",
+   "pos": "TE",
+   "team": "LAR",
+   "injury": null,
+   "injury_detail": null,
+   "proj": 4.36,
+   "season_pts": 17.6,
+   "gp": 7,
+   "ppg": 2.5,
+   "recent": [
+    4.8,
+    null,
+    1.3
+   ],
+   "snap_pct": 65,
+   "tgt_pg": 3.3,
+   "rush_pg": null,
+   "opp": "@ ARI",
+   "game_date": "2026-11-15",
+   "game_status": "complete",
+   "bye": 11,
+   "depth": "TE2",
+   "trend_rank": 34
   }
  ],
  "positional_strength": {
